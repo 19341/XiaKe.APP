@@ -1,0 +1,63 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\19341\\.ohos\\config\\default_3_aI4VuDDEAGnHkVD1foh9_GW72P8cou4NjsMkQtc4TcA=.cer",
+          "storePassword": "0000001BA4085DAEA554BA0243603FCBCFFC650BDD15F9FE678127D5F1E3416A08D0825268FF3F243A3724",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BC20E4DBDF63D22A22680335F2B20D2BCC63019B9F16EE219823F32E33AF5B4EB8F17710F788B95",
+          "profile": "C:\\Users\\19341\\.ohos\\config\\default_3_aI4VuDDEAGnHkVD1foh9_GW72P8cou4NjsMkQtc4TcA=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\19341\\.ohos\\config\\default_3_aI4VuDDEAGnHkVD1foh9_GW72P8cou4NjsMkQtc4TcA=.p12"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          },
+          "cangjieOptions": {
+            "path": "./src/main/cangjie/cjpm.toml",
+            "abiFilters": [
+              "arm64-v8a",
+              "x86_64"
+            ]
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
