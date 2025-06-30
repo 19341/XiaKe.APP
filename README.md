@@ -1,2 +1,22 @@
 # XiaKe.APP
 一个旅游规划记录APP
+1.需要先注册才能进行登录
+![Screenshot_2025-06-18T123537](https://github.com/user-attachments/assets/ce1a7e88-0a82-43fc-bd46-19c401d0509e)
+![Screenshot_2025-06-18T123551](https://github.com/user-attachments/assets/33bfeaf7-0119-4ed5-b7e0-f29561355493)
+2.进入首页之后，可通过点击底部导航栏的不同tab进行页面切换：
+tab1是旅游规划界面，可通过点击地图上的小icon进行定位、切换图层等功能，点击大的“+”按键进入攻略制定界面，点击导航按键进入已制定好的攻略界面。
+![Screenshot_2025-06-18T123704](https://github.com/user-attachments/assets/b2b2cdfa-f146-4e2a-8efd-c69721bafedb)
+![Screenshot_2025-06-18T123657](https://github.com/user-attachments/assets/b82b3f45-b54a-4999-b120-1800852acf33)
+![Screenshot_2025-06-18T123618](https://github.com/user-attachments/assets/9d9f6acf-a011-473b-8a95-33765645cb2e)
+tab2是社区发帖界面，点击右上方的加号可进入发帖界面，点击tab2的帖子可进入帖子详情页。
+![Screenshot_2025-06-18T124031](https://github.com/user-attachments/assets/a8632006-c5e6-43fc-901e-14bf5bc73873)
+![Screenshot_2025-06-18T124027](https://github.com/user-attachments/assets/0319f05c-77da-4fa6-9cfa-360b208bf571)
+![Screenshot_2025-06-18T123959](https://github.com/user-attachments/assets/1bb87f71-74d6-44d6-a2af-f1cc8dd7ee49)
+![Screenshot_2025-06-18T123801](https://github.com/user-attachments/assets/6f6b25c9-767a-47cf-881b-b080b14edaf9)
+![Screenshot_2025-06-18T123755](https://github.com/user-attachments/assets/0cc1f74e-4663-4c92-9b45-2c76d9f67897)
+![Screenshot_2025-06-18T123719](https://github.com/user-attachments/assets/4d847554-96aa-4a66-a255-fa8b4aed069a)
+tab3是运动记录界面，点击开始可以进行计时定位测速，并通过以上数据计算消耗的卡路里。
+![Screenshot_2025-06-18T124041](https://github.com/user-attachments/assets/679d9a8d-23f6-4a55-bfb4-d9ffd2fa77dc)
+tab4是个人信息页面，点击头像或者下方退出登录按钮可以退出登录。
+![Screenshot_2025-06-18T124815](https://github.com/user-attachments/assets/5b1d59af-3bba-4de4-a890-79148476affe)
+![Screenshot_2025-06-18T124811](https://github.com/user-attachments/assets/92257ed1-1331-4306-913d-dcfda6299e48)
